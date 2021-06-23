@@ -1,0 +1,7 @@
+{
+  "learning_rate": 0.1,
+  "model": [
+    {"size":  3, "function":  "tanh"},
+    {"size":  4, "function":  "relu"}
+  ]
+}
